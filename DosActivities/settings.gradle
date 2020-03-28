@@ -1,0 +1,2 @@
+rootProject.name='Dos Activities'
+include ':app'
